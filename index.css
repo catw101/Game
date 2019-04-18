@@ -9,7 +9,7 @@ body
 .intro
 {
 	text-align: center;
-	font: 400 20px/1.2 'Merienda One', Helvetica, sans-serif;
+	font: 400 20px/1.2 'Merienda One', 'Times New Roman';
 	color: rgba(0,0,0,0.7);
 	text-shadow: 3px 3px 3px #fff;
 	border: solid black 5px;
